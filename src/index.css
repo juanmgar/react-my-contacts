@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #c9eaf5ce;
+}
+
+@font-face {
+  font-family: 'Sagobi-d9GnV';
+  src: local('Sagobi-d9GnV'), url('/public/Sagobi-d9GnV.ttf');
+}
+
+h1 {
+  font-family: 'Sagobi-d9GnV';
+  color: #170e90ce;
+}
+
+h2 {
+  font-family: 'Sagobi-d9GnV';
+  color: #050324ce;
+}
+
+.leaflet-container {
+  width: 450px;
+  height: 400px;
+}
